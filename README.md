@@ -1,10 +1,17 @@
 ## Neural and Evolutionary Learning Project
-#### Overview 
+### Guidance / Instructions
+Download all files in repository! <br>
+Leave untouched the gpol library and the csv files!<br>
+If needed, run only the notebooks of EDA (1), the model implementations (2), and the final evaluation (3).
+
+<br>
+### Overview 
 The primary objective of this project is to compare and discuss the behaviour, performance, and application of four models:
 - Genetic Programming (GP)
 - Geometric Semantic Geometric Programming (GSGP)
 - Neural Networks with backpropagation (NN)
 - NeuroEvolution of Augmenting Topologies (NEAT)
+
 
 
 *The framework of the Genetic Programming models are based on:*
