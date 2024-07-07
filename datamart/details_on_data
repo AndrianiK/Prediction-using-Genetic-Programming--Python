@@ -1,0 +1,5 @@
+## Details of the data
+The data comes from a farm in North Italy where the production is entirely based on Automatic Milking Systems (AMSs). In the AMS adopted in this farm, cows decide when to go to the milking robot. 
+At each milking event, the milking robot acquires a lot of data on the cow level, regarding the milk itself, but also regarding the cow and its milking behaviour.
+Milk contents (fat, protein, lactose) are measured at each milking event, and they are used to evaluate the milk quality. *We will only be using the lactose percentage*
+The measurement process is not straightforward: it uses a colourimetric method and the robot needs to be calibrated every 2 weeks with measurements from the laboratory.
