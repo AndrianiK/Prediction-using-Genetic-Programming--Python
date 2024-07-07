@@ -3,8 +3,9 @@
 Download all files in repository! <br>
 Leave untouched the gpol library and the csv files!<br>
 If needed, run only the notebooks of EDA (1), the model implementations (2), and the final evaluation (3).
-
 <br>
+
+The report presents detailed methodology, explanations and results.
 
 ### Overview 
 The primary objective of this project is to compare and discuss the behaviour, performance, and application of four models:
